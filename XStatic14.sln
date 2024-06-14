@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XStatic14.Website", "XStatic14.Website\XStatic14.Website.csproj", "{A653E9F6-CBFE-45A7-8EDE-ABD67B9685C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XStatic14", "XStatic14\XStatic14.csproj", "{05F8BB48-0C53-4045-B1D4-33BCE7449F2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A653E9F6-CBFE-45A7-8EDE-ABD67B9685C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A653E9F6-CBFE-45A7-8EDE-ABD67B9685C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A653E9F6-CBFE-45A7-8EDE-ABD67B9685C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A653E9F6-CBFE-45A7-8EDE-ABD67B9685C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05F8BB48-0C53-4045-B1D4-33BCE7449F2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F8BB48-0C53-4045-B1D4-33BCE7449F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F8BB48-0C53-4045-B1D4-33BCE7449F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F8BB48-0C53-4045-B1D4-33BCE7449F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
